@@ -52,8 +52,8 @@ npm install
 npm start
 The app will be running at 👉 http://localhost:3000/
 
-📸 Demo (Optional)
-Add a screenshot or GIF of your landing page here
+📸 Demo
+![image alt](https://github.com/Gupani-Nagaraju/Landing-page/blob/68fd3e8dd8348582a6f7fd6ad8b156509533e080/localhost_3000_.png)
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
