@@ -53,7 +53,7 @@ npm start
 The app will be running at 👉 http://localhost:3000/
 
 📸 Demo
-![image alt](https://github.com/Gupani-Nagaraju/Landing-page/blob/68fd3e8dd8348582a6f7fd6ad8b156509533e080/localhost_3000_.png)
+<img width="1333" height="5498" alt="Image" src="https://github.com/user-attachments/assets/83aa7f0a-8f69-4f8e-a2d1-08160fc1c4b7" />
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
